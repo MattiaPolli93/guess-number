@@ -22,12 +22,18 @@ body {
     background-color: #60b347;
 }
 
-.width {
-    width: 30rem;
+.properties {
+    margin-bottom: 5rem;
+    font-size: 3rem;
+    line-height: 4rem;
 }
 
-.mg-bottom {
-    margin-bottom: 6rem;
+.bg-grey {
+    background-color: #33323f;
+}
+
+.width {
+    width: 15rem;
 }
 
 /* Layout */
@@ -104,7 +110,7 @@ h1 {
     width: 25rem;
     text-align: center;
     display: block;
-    margin-bottom: 3rem;
+    margin-bottom: 5rem;
 }
 
 .btn {
