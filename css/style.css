@@ -17,6 +17,19 @@ body {
     background-color: #33323f;
 }
 
+/* CSS after JS manipulation */
+.bg-green {
+    background-color: #60b347;
+}
+
+.width {
+    width: 30rem;
+}
+
+.mg-bottom {
+    margin-bottom: 6rem;
+}
+
 /* Layout */
 header {
     position: relative;
