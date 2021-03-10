@@ -17,25 +17,6 @@ body {
     background-color: #33323f;
 }
 
-/* CSS after JS manipulation */
-.bg-green {
-    background-color: #60b347;
-}
-
-.properties {
-    margin-bottom: 5rem;
-    font-size: 3rem;
-    line-height: 4rem;
-}
-
-.bg-grey {
-    background-color: #33323f;
-}
-
-.width {
-    width: 15rem;
-}
-
 /* Layout */
 header {
     position: relative;
@@ -63,7 +44,6 @@ main {
     font-size: 2rem;
 }
 
-/* Elements style */
 h1 {
     font-size: 4rem;
     text-align: center;
@@ -128,7 +108,7 @@ h1 {
 }
 
 .message {
-    margin-bottom: 4rem;
+    margin-bottom: 10rem;
     height: 3rem;
     line-height: 3rem;
 }
